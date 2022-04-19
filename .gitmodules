@@ -1,0 +1,6 @@
+[submodule "engine"]
+	path = engine
+	url = git@github.com:million-monkeys/engine.git
+[submodule "tools/cli"]
+	path = tools/cli
+	url = git@github.com:million-monkeys/cli.git
