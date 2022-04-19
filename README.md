@@ -26,6 +26,18 @@ Some key features:
   * Pathfinding (A* and perhaps Recast/Detour navmeshes) (Not yet implemented)
   * Steering (Not yet implemented)
   * RETE-based inference (Not yet implemented)
+* A web-based editor: (work in progress)
+  * Live access to entities
+  * Visualisation of game data
+  * Map events to Lua script functions
+  * Create NPC AI data:
+    * HTN networks
+    * GOAP actions
+    * Scripted Actions
+    * Utility curves
+    * Inference rules
+  * Create story templates:
+    * Condition-based templates for story beats which the dynamic storyteller can use to generate larger story arcs
 * OpenGL 4.6 renderer with: (Not yet implemented)
   * Physically-based material system
   * Deferred shading light system (the plan it to try Deferred-texturing based renderer first):
