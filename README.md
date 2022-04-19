@@ -18,15 +18,15 @@ Some key features:
 * Game entities are managed through an EnTT-based Entity-Component-System
 * Entities and systems communicate through an event system
 * Multithreaded task-based systems
-* PhysX-based physics system (Not yet implemented)
+* PhysX-based physics system `(Not yet implemented)`
 * A wide set of AI building blocks:
   * Hierarchical Task Network
-  * Goal Oriented Action Planning (Not yet implemented)
+  * Goal Oriented Action Planning `(Not yet implemented)`
   * Utility System (Not yet implemented)
-  * Pathfinding (A* and perhaps Recast/Detour navmeshes) (Not yet implemented)
-  * Steering (Not yet implemented)
-  * RETE-based inference (Not yet implemented)
-* A web-based editor: (work in progress)
+  * Pathfinding (A* and perhaps Recast/Detour navmeshes) `(Not yet implemented)`
+  * Steering `(Not yet implemented)`
+  * RETE-based inference `(Not yet implemented)`
+* A web-based editor: `(work in progress)`
   * Live access to entities
   * Visualisation of game data
   * Map events to Lua script functions
@@ -38,7 +38,7 @@ Some key features:
     * Inference rules
   * Create story templates:
     * Condition-based templates for story beats which the dynamic storyteller can use to generate larger story arcs
-* OpenGL 4.6 renderer with: (Not yet implemented)
+* OpenGL 4.6 renderer with: `(Not yet implemented)`
   * Physically-based material system
   * Deferred shading light system (the plan it to try Deferred-texturing based renderer first):
     * https://mynameismjp.wordpress.com/2016/03/25/bindless-texturing-for-deferred-rendering-and-decals/
