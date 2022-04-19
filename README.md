@@ -44,3 +44,5 @@ Some key features:
     * https://mynameismjp.wordpress.com/2016/03/25/bindless-texturing-for-deferred-rendering-and-decals/
     * https://www.reedbeta.com/blog/deferred-texturing/
   * Maybe switch to bgfx later
+
+Currently the engine is only built and tested on Linux. In the future, prebuilt binaries for both Linux and Windows will be provided and an OS X port is planned (will either need an Open GL 4.1 renderer, a Metal renderer or a bgfx-based renderer since OS X does not support newer versions of OpenGL).
