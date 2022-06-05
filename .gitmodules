@@ -4,3 +4,6 @@
 [submodule "tools/cli"]
 	path = tools/cli
 	url = git@github.com:million-monkeys/cli.git
+[submodule "modules/physics-physx"]
+	path = modules/physics-physx
+	url = git@github.com:million-monkeys/module-physics-physx.git
