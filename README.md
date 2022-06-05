@@ -18,7 +18,7 @@ Some key features:
 * Game entities are managed through an EnTT-based Entity-Component-System
 * Entities and systems communicate through an event system
 * Multithreaded task-based systems
-* PhysX-based physics system `(Not yet implemented)`
+* PhysX-based physics system `(work in progress)`
 * A wide set of AI building blocks:
   * Hierarchical Task Network
   * Goal Oriented Action Planning `(Not yet implemented)`
